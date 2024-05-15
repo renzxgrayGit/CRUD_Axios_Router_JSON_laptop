@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rosanne Glantz",
+      "username": "rglantz0",
+      "email": "rglantz0@github.io",
+      "phone": "426-559-8889",
+      "website": "http://princeton.edu"
+    },
+    {
+      "id": "2",
+      "name": "Joanna Grene",
+      "username": "jgrene1",
+      "email": "jgrene1@technorati.com",
+      "phone": "170-744-0005",
+      "website": "http://indiatimes.com"
+    },
+    {
+      "id": "3",
+      "name": "Lyman Rayer",
+      "username": "lrayer2",
+      "email": "lrayer2@behance.net",
+      "phone": "212-891-0641",
+      "website": "http://google.com.au"
+    },
+    {
+      "id": "4",
+      "name": "Merv Crocombe",
+      "username": "mcrocombe3",
+      "email": "mcrocombe3@infoseek.co.jp",
+      "phone": "584-599-4720",
+      "website": "http://oakley.com"
+    },
+    {
+      "id": "5",
+      "name": "Jolynn Lodford",
+      "username": "jlodford4",
+      "email": "jlodford4@bravesites.com",
+      "phone": "272-742-2639",
+      "website": "http://reddit.com"
+    }
+  ]
+}
